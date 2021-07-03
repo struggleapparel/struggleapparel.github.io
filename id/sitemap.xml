@@ -15,19 +15,6 @@
                 href="https://struggleapparel.github.io/id/products/"
                 />
   </url><url>
-    <loc>https://struggleapparel.github.io/id/products/product-1/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://struggleapparel.github.io/products/product-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://struggleapparel.github.io/id/products/product-1/"
-                />
-  </url><url>
     <loc>https://struggleapparel.github.io/id/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -156,6 +143,19 @@
                 rel="alternate"
                 hreflang="id"
                 href="https://struggleapparel.github.io/id/"
+                />
+  </url><url>
+    <loc>https://struggleapparel.github.io/id/products/product-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://struggleapparel.github.io/products/product-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://struggleapparel.github.io/id/products/product-1/"
                 />
   </url><url>
     <loc>https://struggleapparel.github.io/id/blog/post-4/</loc>
