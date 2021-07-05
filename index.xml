@@ -9,11 +9,20 @@
     <copyright>Developed by **GIGA MATE**</copyright>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://struggleapparel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Watch</title>
-      <link>https://struggleapparel.github.io/products/product-1/</link>
+      <title>Archangel</title>
+      <link>https://struggleapparel.github.io/products/product-6/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://struggleapparel.github.io/products/product-1/</guid>
+      <guid>https://struggleapparel.github.io/products/product-6/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Banana&#39;s Struggle</title>
+      <link>https://struggleapparel.github.io/products/product-7/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://struggleapparel.github.io/products/product-7/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
@@ -28,11 +37,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Galaxy Watch</title>
-      <link>https://struggleapparel.github.io/products/product-2/</link>
+      <title>Great Losses</title>
+      <link>https://struggleapparel.github.io/products/product-8/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://struggleapparel.github.io/products/product-2/</guid>
+      <guid>https://struggleapparel.github.io/products/product-8/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Heaven Fairy</title>
+      <link>https://struggleapparel.github.io/products/product-5/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://struggleapparel.github.io/products/product-5/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
@@ -47,7 +65,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>Motorola Watch</title>
+      <title>Sang Bumi Ruwa Jurai</title>
+      <link>https://struggleapparel.github.io/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://struggleapparel.github.io/products/product-1/</guid>
+      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
+    </item>
+    
+    <item>
+      <title>Simple Pleasure</title>
       <link>https://struggleapparel.github.io/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -56,38 +83,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </item>
     
     <item>
-      <title>OnePlus Watch</title>
-      <link>https://struggleapparel.github.io/products/product-7/</link>
+      <title>Struggle</title>
+      <link>https://struggleapparel.github.io/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://struggleapparel.github.io/products/product-7/</guid>
+      <guid>https://struggleapparel.github.io/products/product-2/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
-      <title>Oppo Watch</title>
-      <link>https://struggleapparel.github.io/products/product-8/</link>
+      <title>Struggle Apparel</title>
+      <link>https://struggleapparel.github.io/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://struggleapparel.github.io/products/product-8/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Realme Watch</title>
-      <link>https://struggleapparel.github.io/products/product-6/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://struggleapparel.github.io/products/product-6/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
-    </item>
-    
-    <item>
-      <title>Redmi Watch</title>
-      <link>https://struggleapparel.github.io/products/product-5/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://struggleapparel.github.io/products/product-5/</guid>
+      <guid>https://struggleapparel.github.io/products/product-3/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
@@ -109,15 +118,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <guid>https://struggleapparel.github.io/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Xiaomi Watch</title>
-      <link>https://struggleapparel.github.io/products/product-3/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://struggleapparel.github.io/products/product-3/</guid>
-      <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
   </channel>
